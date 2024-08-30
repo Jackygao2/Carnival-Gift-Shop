@@ -1,0 +1,16 @@
+type: sorting
+options:
+  - "console.log(`I am a key - ${i}`);"
+  - "}"
+  - "for (let i in obj) {"
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22785#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
